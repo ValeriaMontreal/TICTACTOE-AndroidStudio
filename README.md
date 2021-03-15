@@ -15,3 +15,4 @@ L’activité devra aussi contenir neuf boutons représentant les cases de la gr
 Lors d’une victoire des X ou des O, vous devez marquer les cases impliquées dans la victoire.  Par exemple, en changeant la couleur du texte sur les cases.
 
 
+http://valeriamontreal.com/projects/
